@@ -1,3 +1,6 @@
+> [!warning] ARCHIVED
+> Use <https://github.com/youwen5/zen-browser-flake> instead, as it is better maintained and has a more correct packaging.
+
 # Zen Browser
 
 This is a flake for the Zen browser.
