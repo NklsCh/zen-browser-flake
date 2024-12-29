@@ -1,5 +1,5 @@
-> [!warning] ARCHIVED
-> Use <https://github.com/youwen5/zen-browser-flake> instead, as it is better maintained and has a more correct packaging.
+> [!WARNING]
+> This repo has been archived. Use <https://github.com/youwen5/zen-browser-flake> instead, as it is better maintained and has a more correct packaging.
 
 # Zen Browser
 
